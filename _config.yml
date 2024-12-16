@@ -15,10 +15,10 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "hri27" # the subpath of your site, e.g. /blog
 
 title      : "HRI 2027: Silicon Valley"
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : hri27siliconvalley@gmail.com #this is also the email contact forms will go to
 description: "Bid to host the 22nd IEEE/ACM International Conference on Human-Robot Interaction"
 author     : HRI 2027 Organizing Team
 # logo:     #optional, defaults to site title
