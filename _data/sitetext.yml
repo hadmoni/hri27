@@ -1,0 +1,202 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Bid to host the 22nd IEEE/ACM International Conference on Human-Robot Interaction
+    text: "HRI 2027: Silicon Valley"
+
+  services:
+    title: "Highlights"
+    text: "Robotics in the heart of Silicon Valley"
+    section: highlights
+    list:
+      - title: "Single track format"
+        desc: "Each accepted full paper will have a **5 minute individual oral presentation** plus a **1 hour poster session** slot. This way, each paper gets showcased individually to the community, but presenters can get into more depth with those who are interested during the poster session. We hope this format maintains the cohesion of the HRI community while providing researchers with multiple occasions to share their work."
+        icon: fas fa-microphone
+              #find more at https://fontawesome.com/icons
+      - title: "Industry engagement"
+        desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. During the workshop day, we will organize **site visits to local company offices**, where attendees can learn more about industry research. The program will also include three **panel discussions with top researchers from industry and academia**. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?”. We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration."
+        icon: fas fa-industry
+      - title: "Four day main conference"
+        desc: "To accommodate the increasing number of paper submissions, we will **extend the main conference into a fourth day**. This day will include a keynote, full paper presentations, a poster session, and awards)."
+        icon: fas fa-calendar
+
+  timeline:
+    title: "Timeline"
+    text: "(Proposed)"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: ""
+        year: "From January 2026"
+        desc: "- Sign venue contract
+
+               - Finalize budget including venue, hotel, and registration costs
+
+               - Complete ACM/IEEE budget and paperwork
+
+               - Form the full HRI 2027 Organizing Committee
+
+               - Finalize a theme for the conference and student competition
+
+               - Approach and confirm a first list of partner hotels
+"
+        image: assets/img/timeline/1.jpg
+        alt:
+        align: right
+      - title: ""
+        year: "March 2026"
+        desc: "- Distribute first Call for Papers at HRI 2026
+              
+              - Have the conference website online with initial information
+              
+              - Identify and invite keynote speakers
+"
+        image: assets/img/timeline/2.jpg
+        align: right
+      - title: ""
+        year: "June 2026"
+        desc: "- Distribute the second Call for Papers through mailing lists and official channels
+
+        - Have keynote speakers confirmed
+"
+        image: assets/img/timeline/3.jpg
+        align: "right"
+      - title: ""
+        year: "October 2026"
+        desc: "- Deadline for submission of contributions (papers, alt.HRI, videos, demos, etc.)"
+        image: assets/img/timeline/4.jpg
+        # you can enforce the alignment
+        align: right
+      - title: ""
+        year: "November 2026"
+        desc: "- Program Committee meeting
+
+              - Deadline for submission of Late Breaking Reports
+"
+        image: assets/img/timeline/4.jpg
+        # you can enforce the alignment
+        align: right
+      - title: ""
+        year: "January 2027"
+        desc: "- Deadline for submission of all final camera ready contributions"
+        image: assets/img/timeline/4.jpg
+        # you can enforce the alignment
+        align: right
+      - title: ""
+        year: "March 2027"
+        desc: "- Conference"
+        image: assets/img/timeline/4.jpg
+        # you can enforce the alignment
+        align: right
+      - title: ""
+        year: "March 2028"
+        desc: "- Submit final HRI finance report"
+        image: assets/img/timeline/4.jpg
+        # you can enforce the alignment
+        align: right
+
+  about:
+    title: "Innovative HRI"
+    body: "Silicon Valley, a world-renowned center of technological innovation and creativity, is the perfect setting for the HRI 2027 conference. The area boasts an extraordinary ecosystem of startups, established tech giants, and cutting-edge university research labs. We aim to leverage this proximity to industry to provide conference attendees with unique networking opportunities that can inspire collaboration and new ideas in human-robot interaction.<br><br>
+
+      San Jose is the largest city in Silicon Valley, with a population of nearly 1 million people in 2022. The area is home to 6,600 companies including top tech companies like Amazon, Apple, Microsoft, Adobe, Tesla, Fetch Robotics, NVIDIA, Meta, and Google. There are also many research universities in the area, including Stanford University, University of California - Berkeley, University of California - Santa Cruz, and San Jose State University.<br><br>
+
+      Outside of the conference, Silicon Valley offers a variety of cultural and natural attractions. Attendees can explore the history of technology at the Computer History Museum, admire a diverse collection of contemporary pieces at the San Jose Museum of Art, or take a short trip to San Francisco to experience its historical architecture and vibrant art and food scenes. San Jose is one of the most diverse cities in the United States, with cultural neighborhoods like Japantown, Little Portugal, Little Italy, and Little Saigon. Nature lovers can visit the beautiful Pacific coastline or hike the scenic trails in the Santa Cruz Mountains, and the nearby Muir Woods National Monument offers a chance to wander among towering redwoods.<br><br>
+
+      Inspired by the Silicon Valley spirit of invention, this year’s theme will be “Innovative HRI”. As we enter an era of renewed interest in AI and Robotics, there's never been a better moment to promote awareness of our field and build connections with the dozens of startups and research labs that have been driving advancements in robotics. By hosting HRI 2027 in Silicon Valley, we're choosing more than just a conference venue; we're helping to position our field to better influence the future of robotics."
+    section: about
+
+  schedule:
+    title: "Potential Schedule"
+    text: ""
+    image: assets/img/schedule.jpg
+    body: "<p>This single-track schedule supports 132 full papers (including Alt.HRI), as well as a daily keynote presentation, three panels, Late Breaking Reports, a Student Design Competition, and Short Contributions. </p>
+
+     <p>Each full paper will be presented in a 5-minute talk. There are 6 talks per 30-minute block. At the end of each day, all papers presented that day will also participate in a group poster session. </p>
+
+     <p>Each day, there will also be a poster session for papers from auxiliary tracks (LBRs, Short Contributions, etc.). Throughout the conference, Video contributions will be displayed on televisions in the main gathering spaces. </p>"
+
+  team:
+    title: "Potential Venues"
+    subtitle: "Reception and Banquet Space"
+    text: ""
+    subtext: 
+    section: venues
+    mainvenue:
+      - name: "San Jose Convention Center"
+        role: "San Jose, CA"
+        image: https://www.sanjose.org/sites/default/files/styles/overlay_gallery_image/public/2017-12/concourse-1-and-2_1000x667.jpg.webp?itok=oD5B3Z8h
+        social:
+          - url: https://www.sanjose.org/meet/conventioncenter
+            icon: fas fa-link
+        body: As the flagship of San Jose’s convention facilities, the Convention Center offers plenty of versatile space which can be configured to fit a variety of event needs, from tradeshows and corporate launches to general sessions and banquets and beyond. The building has over 350,000 sq ft of space, with up to 43 meeting rooms with capacities from 50 to 3,900 in theater style seating. The Convention Center is networked with nearby venues to help events expand seamlessly into whatever environment your gathering requires. The Center can easily serve as the stand alone hub of your event or be combined with any number of other unique facilities. Located in the Downtown core with its own parking garage, the Center is connected to two hotels and within walking distance of 5 additional hotels, multiple visual and performing arts facilities and an abundance of restaurants. 
+    people:
+      - name: "Computer History Museum"
+        role: "Mountain View, CA"
+        image: https://images.adsttc.com/media/images/5015/7719/28ba/0d02/f000/144e/large_jpg/stringio.jpg?1414479789
+        social:
+          - url: https://computerhistory.org/venue/
+            icon: fas fa-link
+      - name: "The Exploratorium"
+        role: "San Francisco, CA"
+        image: https://www.exploratorium.edu/sites/default/files/2023-08/Sophie_Jordan_Wed_0618.JPG
+        social:
+          - url: https://www.exploratorium.edu/rentals
+            icon: fas fa-link
+      - name: "Stanford Robotics Center"
+        role: "Stanford, CA"
+        image: https://images.squarespace-cdn.com/content/v1/66b6b61fc5e5030973bd431f/55464576-459e-42b6-a2e0-3066fd79df7c/Packard+5.jpg?format=2500w
+        social:
+          - url: https://src.stanford.edu/
+            icon: fas fa-link
+
+  portfolio:
+    title: "Meet the Organizers"
+    section: portfolio
+    closebutton: "Close"
+
+  contact:
+    title: "Contact Us"
+    text: "hri2027@gmail.com"
+
+  footer:
+
+
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
