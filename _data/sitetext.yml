@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. During the workshop day, we will organize **site visits to local company offices**, where attendees can learn more about industry research. The program will also include three **panel discussions with top researchers from industry and academia**. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?”. We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration."
         icon: fas fa-industry
       - title: "Four day main conference"
-        desc: "To accommodate the increasing number of paper submissions, we will **extend the main conference into a fourth day**. This day will include a keynote, full paper presentations, a poster session, and awards)."
+        desc: "To accommodate the increasing number of paper submissions, we will **extend the main conference into a fourth day**. This day will include a keynote, full paper presentations, a poster session, and awards."
         icon: fas fa-calendar
 
   timeline:
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: ""
-        year: "From January 2026"
+        year: "From January 2025"
         desc: "- Sign venue contract
 
                - Finalize budget including venue, hotel, and registration costs
@@ -84,25 +84,25 @@ en: &DEFAULT_EN
 
               - Deadline for submission of Late Breaking Reports
 "
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         # you can enforce the alignment
         align: right
       - title: ""
         year: "January 2027"
         desc: "- Deadline for submission of all final camera ready contributions"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/6.jpg
         # you can enforce the alignment
         align: right
       - title: ""
         year: "March 2027"
         desc: "- Conference"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/7.jpg
         # you can enforce the alignment
         align: right
       - title: ""
         year: "March 2028"
         desc: "- Submit final HRI finance report"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/8.jpg
         # you can enforce the alignment
         align: right
 
@@ -120,10 +120,10 @@ en: &DEFAULT_EN
   schedule:
     title: "Potential Schedule"
     text: ""
-    image: assets/img/schedule.jpg
+    image: assets/img/schedule.png
     body: "<p>This single-track schedule supports 132 full papers (including Alt.HRI), as well as a daily keynote presentation, three panels, Late Breaking Reports, a Student Design Competition, and Short Contributions. </p>
 
-     <p>Each full paper will be presented in a 5-minute talk. There are 6 talks per 30-minute block. At the end of each day, all papers presented that day will also participate in a group poster session. </p>
+     <p>Each full paper will be presented in a 5-minute talk (including switching time), and each group of talks will be followed immediately by a poster session. In this way, all papers have a chance to be individually spotlighted, but authors can also answer questions and engage with the audience in smaller discussions. Most talk blocks are 1.5 hours long (18 paper presented), followed by a 1 hour poster session. On the final day, we extend this to a 2 hour long talk block and a 1.5 hour poster session.</p>
 
      <p>Each day, there will also be a poster session for papers from auxiliary tracks (LBRs, Short Contributions, etc.). Throughout the conference, Video contributions will be displayed on televisions in the main gathering spaces. </p>"
 
@@ -151,11 +151,11 @@ en: &DEFAULT_EN
           social:
             - url: https://computerhistory.org/venue/
               icon: fas fa-link
-        - name: "The Exploratorium"
-          role: "San Francisco, CA"
-          image: https://www.exploratorium.edu/sites/default/files/2023-08/Sophie_Jordan_Wed_0618.JPG
+        - name: "The Tech Interactive"
+          role: "San Jose, CA"
+          image: https://www.thetech.org/media/1i2i0r4z/lobby-props-lighting.jpg?width=1000&height=563&rnd=133473751642770000
           social:
-            - url: https://www.exploratorium.edu/rentals
+            - url: https://www.thetech.org/visit/event-rentals/meeting-event-spaces/
               icon: fas fa-link
         - name: "Stanford Robotics Center"
           role: "Stanford, CA"
@@ -165,7 +165,9 @@ en: &DEFAULT_EN
               icon: fas fa-link
     logistics:
       title: "Logistics"
-      body: "It’s easy to access San Jose through three major airports in the area. The closest airport, San Jose Mineta International Airport (SJC), has 150 daily flights and is just 4 miles from downtown. For additional flexibility, San Jose is also serviced by San Francisco (SFO) and Oakland (OAK) Airports, both of which are a 30-45 minute drive from San Jose. Together, these three airports have a total of 1,400 daily flights. "
+      body: "It’s easy to access San Jose through three major airports in the area. The closest airport, San Jose Mineta International Airport (SJC), has 150 daily flights and is just 4 miles from downtown. San Jose is also serviced by San Francisco (SFO) and Oakland (OAK) Airports, both of which are a 30-45 minute drive from San Jose. Together, these three airports have a total of 1,400 daily flights. <br><br>
+
+      For public transit, San Jose is connected with San Francisco, SFO Airport, and locations throughout Silicon Valley by the Caltrain. Local transportation is also served by the VTA light rail system and a number of shuttles and buses."
 
   portfolio:
     title: "Meet the Organizers"
