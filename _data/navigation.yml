@@ -11,16 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Theme"
+      section: about
     - title: "Highlights"
       section: highlights
-    - title: "Location"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Venues"
-      section: venues
     - title: "Organizers"
       section: portfolio
+    - title: "Schedule"
+      section: schedule
+    - title: "Location"
+      section: venues
+    - title: "Timeline"
+      section: timeline
     - title: "Contact"
       section: contact
 

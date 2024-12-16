@@ -10,9 +10,14 @@
 	</div>
   </div>
 
+	<div class="col-lg-12 text-center">
+	<h3 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].team.mainvenue.title }}</h3>
+	<br>
+	</div>
 
 	<div class="row d-flex justify-content-left">
-		{% for mainvenue in site.data.sitetext[site.locale].team.mainvenue %}
+		
+		{% for mainvenue in site.data.sitetext[site.locale].team.mainvenue.venues %}
 		<div class="col-sm-4">
 			<div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ mainvenue.image }}" alt="">
@@ -37,13 +42,14 @@
 
 	<div class="row">
 	<div class="col-lg-12 text-center">
-	  <h3 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].team.subtitle }}</h3>
+	  <h3 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].team.secondaryvenue.title }}</h3>
+	  <br>
 	</div>
 	</div>
-	<div><p></p></div>
+	
 
   <div class="row d-flex justify-content-center">
-  {% for person in site.data.sitetext[site.locale].team.people %}
+  {% for person in site.data.sitetext[site.locale].team.secondaryvenue.people %}
 	<div class="col-sm-4">
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
@@ -67,6 +73,18 @@
 	  <div class="large text-muted">{{ site.data.sitetext[site.locale].team.subtext | markdownify }}</div>
 	</div>
   </div>
+
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h3 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].team.logistics.title }}</h3>
+	  <br>
+	</div>
+	<div class="col-lg-8 mx-auto text-full">
+			<p class="large text-muted"> {{ site.data.sitetext[site.locale].team.logistics.body }}</p>
+		</div>
+
+	</div>
+
 </div>
 </section>
 {% else %}
@@ -79,7 +97,7 @@
 		</div>
 	  </div>
 	  <div class="row d-flex justify-content-center">
-	  {% for person in site.data.sitetext.team.people %}
+	  {% for person in site.data.sitetext.team.secondaryvenue.people %}
 		<div class="col-sm-4">
 		  <div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">

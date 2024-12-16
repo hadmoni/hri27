@@ -128,12 +128,13 @@ en: &DEFAULT_EN
      <p>Each day, there will also be a poster session for papers from auxiliary tracks (LBRs, Short Contributions, etc.). Throughout the conference, Video contributions will be displayed on televisions in the main gathering spaces. </p>"
 
   team:
-    title: "Potential Venues"
-    subtitle: "Reception and Banquet Space"
+    title: "Location"
     text: ""
     subtext: 
     section: venues
     mainvenue:
+      title: "Potential Conference Venue"
+      venues:
       - name: "San Jose Convention Center"
         role: "San Jose, CA"
         image: https://www.sanjose.org/sites/default/files/styles/overlay_gallery_image/public/2017-12/concourse-1-and-2_1000x667.jpg.webp?itok=oD5B3Z8h
@@ -141,25 +142,30 @@ en: &DEFAULT_EN
           - url: https://www.sanjose.org/meet/conventioncenter
             icon: fas fa-link
         body: As the flagship of San Jose’s convention facilities, the Convention Center offers plenty of versatile space which can be configured to fit a variety of event needs, from tradeshows and corporate launches to general sessions and banquets and beyond. The building has over 350,000 sq ft of space, with up to 43 meeting rooms with capacities from 50 to 3,900 in theater style seating. The Convention Center is networked with nearby venues to help events expand seamlessly into whatever environment your gathering requires. The Center can easily serve as the stand alone hub of your event or be combined with any number of other unique facilities. Located in the Downtown core with its own parking garage, the Center is connected to two hotels and within walking distance of 5 additional hotels, multiple visual and performing arts facilities and an abundance of restaurants. 
-    people:
-      - name: "Computer History Museum"
-        role: "Mountain View, CA"
-        image: https://images.adsttc.com/media/images/5015/7719/28ba/0d02/f000/144e/large_jpg/stringio.jpg?1414479789
-        social:
-          - url: https://computerhistory.org/venue/
-            icon: fas fa-link
-      - name: "The Exploratorium"
-        role: "San Francisco, CA"
-        image: https://www.exploratorium.edu/sites/default/files/2023-08/Sophie_Jordan_Wed_0618.JPG
-        social:
-          - url: https://www.exploratorium.edu/rentals
-            icon: fas fa-link
-      - name: "Stanford Robotics Center"
-        role: "Stanford, CA"
-        image: https://images.squarespace-cdn.com/content/v1/66b6b61fc5e5030973bd431f/55464576-459e-42b6-a2e0-3066fd79df7c/Packard+5.jpg?format=2500w
-        social:
-          - url: https://src.stanford.edu/
-            icon: fas fa-link
+    secondaryvenue: 
+      title: "Potential Reception and Banquet Venues"
+      people:
+        - name: "Computer History Museum"
+          role: "Mountain View, CA"
+          image: https://images.adsttc.com/media/images/5015/7719/28ba/0d02/f000/144e/large_jpg/stringio.jpg?1414479789
+          social:
+            - url: https://computerhistory.org/venue/
+              icon: fas fa-link
+        - name: "The Exploratorium"
+          role: "San Francisco, CA"
+          image: https://www.exploratorium.edu/sites/default/files/2023-08/Sophie_Jordan_Wed_0618.JPG
+          social:
+            - url: https://www.exploratorium.edu/rentals
+              icon: fas fa-link
+        - name: "Stanford Robotics Center"
+          role: "Stanford, CA"
+          image: https://images.squarespace-cdn.com/content/v1/66b6b61fc5e5030973bd431f/55464576-459e-42b6-a2e0-3066fd79df7c/Packard+5.jpg?format=2500w
+          social:
+            - url: https://src.stanford.edu/
+              icon: fas fa-link
+    logistics:
+      title: "Logistics"
+      body: "It’s easy to access San Jose through three major airports in the area. The closest airport, San Jose Mineta International Airport (SJC), has 150 daily flights and is just 4 miles from downtown. For additional flexibility, San Jose is also serviced by San Francisco (SFO) and Oakland (OAK) Airports, both of which are a 30-45 minute drive from San Jose. Together, these three airports have a total of 1,400 daily flights. "
 
   portfolio:
     title: "Meet the Organizers"
