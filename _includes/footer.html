@@ -3,11 +3,13 @@
   <div class="container">
     {% if site.locale and site.locale != "" and site.locale != nil %}
     <div class="row align-items-center">
+      <!-- Theme Source -->
       <div class="col-md-4">
         <span class="copyright"
           >Theme source: <a href="https://github.com/raviriley/agency-jekyll-theme">Agency Jekyll Theme</a></span
         >
       </div>
+
       <!-- Social Media -->
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
@@ -22,6 +24,15 @@
           {% endfor %}
         </ul>
       </div>
+
+      <!-- Photo Credits -->
+      <div class="col-md-4">
+        <span class="copyright"
+          ><a href="./photocredits.html">Photo Credit</a></span
+        >
+      </div>
+
+      
       <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
@@ -36,15 +47,18 @@
     </div>
     {% else %}
     <div class="row align-items-center">
+      <!-- Theme Source -->
       <div class="col-md-4">
         <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
+          >Theme source: <a href="https://github.com/raviriley/agency-jekyll-theme">Agency Jekyll Theme</a></span
         >
       </div>
+
       <!-- Social Media -->
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
+          {% for link in site.data.sitetext
+          .footer.social %}
           <li class="list-inline-item">
             {% if link.url %}
             <a href="{{ link.url }}">
@@ -55,14 +69,23 @@
           {% endfor %}
         </ul>
       </div>
+
+      <!-- Photo Credits -->
+      <div class="col-md-4">
+        <span class="copyright"
+          ><a href="./photocredits.html">Photo Credit</a></span
+        >
+      </div>
+
+      
       <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
-            <a href="legal"
+            <!-- <a href="legal"
               >{{ site.data.sitetext.footer.legal | default:
               "Privacy Policy" }}</a
-            >
+            > -->
           </li>
         </ul>
       </div>

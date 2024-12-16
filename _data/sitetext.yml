@@ -180,6 +180,37 @@ en: &DEFAULT_EN
 
   footer:
 
+  credits:
+    section: credits
+    title: "Photo Credits"
+    people:
+      - name: "Alireza Mirzabegi"
+        personal-url: "https://unsplash.com/@alirezamirzabegi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/a-view-of-the-golden-gate-bridge-from-a-distance-98uStLSJFe0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Thom Milkovic"
+        personal-url: "https://unsplash.com/@thommilkovic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/person-using-black-typewriter-FTNGfpYCpGM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Kane Reinholdtse"
+        personal-url: "https://unsplash.com/@kanereinholdtsen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/silver-corded-microphone-in-shallow-focus-photography-LETdkk7wHQk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Jon Tyson"
+        personal-url: "https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/brown-and-white-clocks-FlHdnPO6dlw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Scott Graham"
+        personal-url: "https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Hope House Press - Leather Diary Studio"
+        personal-url: "https://unsplash.com/@hope_house_press_leather_diary_studio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/filed-four-books-IOzk8YKDhYg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "The Climate Reality Project"
+        personal-url: "https://unsplash.com/@climatereality?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/selective-focus-photography-of-people-sitting-on-chairs-while-writing-on-notebooks-Hb6uWq0i4MI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Annie Spratt"
+        personal-url: "https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/white-casio-calculator-r_m-JKJVto0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+      - name: "Craig Sybert"
+        personal-url: "https://unsplash.com/@contrastband?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+        photo-url: "https://unsplash.com/photos/blue-and-black-robot-figurine-S-vkpXA3os8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
 
   # clients:
   #   section: clients
