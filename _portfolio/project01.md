@@ -1,16 +1,17 @@
 ---
-title: Dylan Glas
-subtitle: Amazon Lab126
-image: assets/img/portfolio/dylan-glas.jpg
-alt: Dylan Glas headshot
+title: Henny Admoni
+subtitle: Carnegie Mellon University
+image: assets/img/portfolio/henny-admoni.jpg
+alt: Henny Admoni headshot
 
 caption:
-  title: Dylan Glas
+  title: Henny Admoni
   subtitle: General Co-Chair
-  thumbnail: assets/img/portfolio/dylan-glas.jpg
+  thumbnail: assets/img/portfolio/henny-admoni.jpg
 ---
-Dylan Glas is a Senior Applied Scientist at Amazon Lab126, where he leads HRI research in interaction design, intelligent social navigation, spatial preference modeling, and other topics for the consumer robotics division. He was previously Senior Robotics Software Architect for the Xiaoyi Wizard educational home robot at Huawei. Prior to moving to industry, he was a Senior Researcher in a 12 year career at ATR, leading system development and research on the ERICA android at Hiroshi Ishiguro Laboratories, and conducting laboratory studies and field deployments with Robovie at the Intelligent Robotics and Communication Laboratories, where his research interests included teleoperation, pedestrian behavior analysis, end-user-programming methodologies, perception and sensor fusion, and learning by imitation.
+Henny Admoni is an Associate Professor in the Robotics Institute at Carnegie Mellon University, where she leads the Human And Robot Partners (HARP) Lab. Dr. Admoni studies how to develop intelligent robots that can assist and collaborate with humans on complex tasks like preparing a meal. She is most interested in how natural human communication, like where someone is looking, can reveal underlying human intentions and can be used to improve human-robot interactions. 
 
-In academics, he holds an M. Eng and two S.B. degrees from the Massachusetts Institute of Technology, where he worked on teleoperation for planetary rovers at the A.I. Laboratory and designed tangible interfaces at the Media Lab’s Tangible Media Group. He earned his PhD in Robotics at Osaka University, where he later served as Guest Associate Professor. He has won or been nominated for 6 conference paper awards at HRI, RO-MAN, IROS, and the AAAI Symposium, and has co-authored 9 full papers at the HRI conference. He has been featured for his robotics work on BBC, CNN, CBS, National Geographic, Al Jazeera, The Guardian, and other media, and was awarded the "Botsker" award for Best Picture at the 2018 Robot Film Festival.
+Previously, Dr. Admoni was a postdoctoral fellow at CMU. She completed her PhD in Computer Science at Yale University. Dr. Admoni also holds an MS in Computer Science from Yale University, and a BA/MA joint degree in Computer Science from Wesleyan University. Dr. Admoni has been awarded an NSF CAREER grant, an Okawa Research Grant, and the A. Nico Habermann Career Development Professorship at CMU. She has been featured in media such as Wired, NPR’s Science Friday, Voice of America News, and WESA radio. 
 
-Previous HRI roles: Demo Chair (2015), Program Committee Member (2015-2019, 2025), Program Committee Track Chair (2023-2024), THRI Associate Editor (2017-present).
+Previous HRI roles: Finance Chair (2020 & 2021), Student Volunteer Chair (2018), Program Committee member (2017-2022), Program Committee track chair (2023 & 2025)
+

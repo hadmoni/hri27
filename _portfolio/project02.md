@@ -1,17 +1,16 @@
 ---
-title: Henny Admoni
-subtitle: Carnegie Mellon University
-image: assets/img/portfolio/henny-admoni.jpg
-alt: Henny Admoni headshot
+title: Katie Winkle
+subtitle: Uppsala University
+image: assets/img/portfolio/katie-winkle.webp
+alt: Katie Winkle headshot
 
 caption:
-  title: Henny Admoni
-  subtitle: General Co-Chair
-  thumbnail: assets/img/portfolio/henny-admoni.jpg
+  title: Katie Winkle
+  subtitle: Program Co-Chair
+  thumbnail: assets/img/portfolio/katie-winkle.webp
 ---
-Henny Admoni is an Associate Professor in the Robotics Institute at Carnegie Mellon University, where she leads the Human And Robot Partners (HARP) Lab. Dr. Admoni studies how to develop intelligent robots that can assist and collaborate with humans on complex tasks like preparing a meal. She is most interested in how natural human communication, like where someone is looking, can reveal underlying human intentions and can be used to improve human-robot interactions. 
+Katie Winkle is an Assistant Professor in Social Robotics at Uppsala University, Sweden, where she co-leads the Uppsala Social Robotics Laboratory and is building a new design studio focused on Human-Machine Futures. Her research is concerned with delivering ‘real-world’ effective, ethical human-robot interactions; with recent research projects being focused on expert-led robot development of social robots in health and education settings alongside developing notions of Feminist human-robot interaction. Previous to her appointment at Uppsala, Katie was awarded a Digital Futures Postdoctoral Research Fellowship at KTH Royal Institute of Technology following her PhD in Robotics and Autonomous Systems at the Bristol Robotics Laboratory (University of Bristol, University of the West of England) UK. She also holds a MEng degree in Mechanical Engineering (First Class Honours) from the University of Bristol, UK. Her award winning work (2x HRI Best Paper Awards and 1x additional nomination) has been featured in international media (including e.g. televised appearances on the BBC and newspaper interviews for Sweden’s largest daily newspaper, Dagens Nyheter). Her service to the HRI community was recognised by a Community Service Award for outstanding contribution and support in the organisation of HRI 2023 as a local arrangements chair.
 
-Previously, Dr. Admoni was a postdoctoral fellow at CMU. She completed her PhD in Computer Science at Yale University. Dr. Admoni also holds an MS in Computer Science from Yale University, and a BA/MA joint degree in Computer Science from Wesleyan University. Dr. Admoni has been awarded an NSF CAREER grant, an Okawa Research Grant, and the A. Nico Habermann Career Development Professorship at CMU. She has been featured in media such as Wired, NPR’s Science Friday, Voice of America News, and WESA radio. 
+Previous HRI roles: Local Chair (2023), Student Design Competition Chair (2024), Workshop Chair (2025, 2026), Program Committee Member (2023-2024), Program Committee Track Chair (2025).  
 
-Previous HRI roles: Finance Chair (2020 & 2021), Student Volunteer Chair (2018), Program Committee member (2017-2022), Program Committee track chair (2023 & 2025)
 
