@@ -13,4 +13,6 @@ Dylan Glas is a Senior Applied Scientist at Amazon Lab126, where he leads HRI re
 
 In academics, he holds an M. Eng and two S.B. degrees from the Massachusetts Institute of Technology, where he worked on teleoperation for planetary rovers at the A.I. Laboratory and designed tangible interfaces at the Media Lab’s Tangible Media Group. He earned his PhD in Robotics at Osaka University, where he later served as Guest Associate Professor. He has won or been nominated for 6 conference paper awards at HRI, RO-MAN, IROS, and the AAAI Symposium, and has co-authored 9 full papers at the HRI conference. He has been featured for his robotics work on BBC, CNN, CBS, National Geographic, Al Jazeera, The Guardian, and other media, and was awarded the "Botsker" award for Best Picture at the 2018 Robot Film Festival.
 
-Previous HRI roles: Demo Chair (2015), Program Committee Member (2015-2019, 2025), Program Committee Track Chair (2023-2024), THRI Associate Editor (2017-present).
+**Previous HRI roles: Demo Chair (2015), Program Committee Member (2015-2019, 2025), Program Committee Track Chair (2023-2024), THRI Associate Editor (2017-present)**
+
+ACM \# 3105990

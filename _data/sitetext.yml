@@ -19,16 +19,31 @@ en: &DEFAULT_EN
     text: "Robotics in the heart of Silicon Valley"
     section: highlights
     list:
-      - title: "Single track format"
-        desc: "Each accepted full paper will have a **5 minute individual oral presentation** plus a **1 hour poster session** slot. This way, each paper gets showcased individually to the community, but presenters can get into more depth with those who are interested during the poster session. We hope this format maintains the cohesion of the HRI community while providing researchers with multiple occasions to share their work."
-        icon: fas fa-microphone
+      - title: "Single track over four days"
+        desc: " We are committed to maintaining the cohesion of the HRI community while providing researchers with sufficient time to share their work. To accommodate an anticipated increase in number of submissions, we plan to have **shorter single-track oral presentations supplemented by poster sessions** for all main track papers. We will also **extend the main conference into a fourth day**."
+        icon: fas fa-calendar
               #find more at https://fontawesome.com/icons
       - title: "Industry engagement"
-        desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. During the workshop day, we will organize **site visits to local company offices**, where attendees can learn more about industry research. The program will also include three **panel discussions with top researchers from industry and academia**. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?”. We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration."
+        desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. During the workshop day, we will organize **site visits to local company offices**, where attendees can learn more about industry research. The program will also include three **panel discussions with top researchers from industry and academia**."
         icon: fas fa-industry
-      - title: "Four day main conference"
-        desc: "To accommodate the increasing number of paper submissions, we will **extend the main conference into a fourth day**. This day will include a keynote, full paper presentations, a poster session, and awards."
-        icon: fas fa-calendar
+      - title: "Experienced organizing committee"
+        desc: "Our team has **significant experience organizing HRI** and other major conferences. Nearly every member of the organizing committee has served on a previous HRI OC in some capacity, including past General, Program, and Finance Chairs."
+        icon: fas fa-users
+
+  changes:
+    title: "Changes"
+    text: "Changes from previous conferences"
+    section: changes
+    list:
+      - title: "Main paper presentations"
+        desc: "We aim to continue HRI's tradition of a single-track program. However, submission numbers have typically increased year over year, and we can expect this trend to continue. To accommodate all main track papers while keeping the acceptance rate at about 25%, we will employ a hybrid presentation model. All main conference papers will be presented as both a 5-minute spotlight talk (single track) and during a 1-hour poster session (in parallel with 17--23 other papers from that oral session). While this reduces the length of each individual paper's talk, it adds a supplementary poster session where speakers can get into more depth with those who are interested. This follows a similar structure to RSS 2024 and other conferences."
+        icon: fas fa-microphone
+      - title: "Extended conference duration"
+        desc: "In addition to the hybrid presentation model, we propose handling an increase in papers by extending the main conference to a fourth day. The final day will end earlier than other days to allow people to travel home that afternoon. Thus, the conference would run over five days (one workshop day and four conference days). This is similar to the duration of HRI 2024, which had two workshop days and three conference days. More details about the proposed schedule changes can be found in the Schedule section below."
+        icon: far fa-clock
+      - title: "Daily panels"
+        desc: "We aim to increase the variety of events each day by introducing daily panel discussions. These panels will be comprised of top researchers from both academia and industry, in keeping with our theme of Innovative HRI. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?”. We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration. The panels will complement the traditional keynotes, paper talks, and poster sessions."
+        icon: fas fa-comments
 
   timeline:
     title: "Timeline"
@@ -173,6 +188,46 @@ en: &DEFAULT_EN
     title: "Meet the Organizers"
     section: portfolio
     closebutton: "Close"
+    second-title: "Proir HRI Organizing Experience"
+    subtext: "_We're proud to have put together a stellar team who have extensive experience organizing the HRI conference. Nearly every  organizational role has been covered previously by one or more of our committee members. Below is a list of conference organizational roles and which committee member(s) have filled them previously._"
+    icon: fa fa-circle-check
+    itemlist: 
+      - role: "General Chair"
+        name: "Daisuke Sakamoto ('22)"
+      - role: "Program Chair"
+        name: "David Sirkin ('19)"
+      - role: "Finance Chair"
+        name: "Nicole Salomons ('26), Kate Tsui ('21, '22), Henny Admoni ('20, '21)"
+      - role: "Local Chair"
+        name: "Ho Seok Ahn ('16), Fumihide Tanaka ('13), Katie Winkle ('23)"
+      - role: "Late Breaking Reports Chair"
+        name: "Emmanuel Senft ('25), Kate Tsui ('18)"
+      - role: "Alt.HRI Chair"
+        name: "Fumihide Tanaka ('18)"
+      - role: "Video/Demo Chair"
+        name: "Ho Seok Ahn ('21), Dylan Glas ('15), Angelica Lim ('24,  '25), Astrid Rosenthal-von der Putten ('20), Fumihide Tanaka ('23)"
+      - role: "Publication Chair"
+        name: "Ho Seok Ahn ('26)"
+      - role: "Workshops Chair"
+        name: "Astrid Rosenthal-von der Putten ('22), David Sirkin ('22), Fumihide Tanaka ('20), Katie Winkle ('25, '26)"
+      - role: "Publicity Chair"
+        name: "Angelica Lim ('24), Fumihide Tanaka ('21)"
+      - role: "Fundraising/Expo Chair"
+        name: "Ho Seok Ahn ('24), Andra Keay ('20), Daisuke Sakamoto ('13, '15, '16, '17, '18, '25)"
+      - role: "Industry Chair"
+        name: "Amin Atrash ('24), Kate Tsui ('24, '25)"
+      - role: "Student Design Competition Chair"
+        name: "David Sirkin ('17), Katie Winkle ('24)"
+      - role: "Telepresence/Hybrid Chair"
+        name: "Shelly Bagchi ('23, '24), Paul Robinette ('19)"
+      - role: "Student Volunteers Chair"
+        name: "Henny Admoni ('18)"
+      - role: "Registration Chair"
+        name: "Ho Seok Ahn ('19), Kate Tsui ('12)"
+      - role: "Accessibility Chair"
+        name: "Nicole Salomons ('24, '25), Emmanuel Senft ('26)"
+      - role: "Design Chair"
+        name: "David Sirkin ('18)"
 
   contact:
     title: "Contact Us"

@@ -13,4 +13,4 @@ caption:
 Astrid Rosenthal-von der Pütten is Full Professor in psychology and directs the Chair Individual and Technology at RWTH Aachen University, Germany. 
 
 
-Previous HRI roles: Workshop Chair (2022), Committee member (2017-2021, 2024)
+**Previous HRI roles: Workshop Chair (2022), Video Chair (2020), Program Committee Member (2017-2021, 2024)**
