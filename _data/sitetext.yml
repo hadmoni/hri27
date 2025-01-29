@@ -188,8 +188,8 @@ en: &DEFAULT_EN
     title: "Meet the Organizers"
     section: portfolio
     closebutton: "Close"
-    second-title: "Proir HRI Organizing Experience"
-    subtext: "_We're proud to have put together a stellar team who have extensive experience organizing the HRI conference. Nearly every  organizational role has been covered previously by one or more of our committee members. Below is a list of conference organizational roles and which committee member(s) have filled them previously._"
+    second-title: "Prior HRI Organizing Experience"
+    subtext: "_We're proud to have put together a deeply experienced organizing team. Nearly every organizational role at HRI has been covered previously by one or more of our committee members. This experience will help provide an extra layer of support to current members who are taking on these roles for the first time. Below is a list of OC roles and the committee member(s) who have filled them previously._"
     icon: fa fa-circle-check
     itemlist: 
       - role: "General Chair"
@@ -228,6 +228,8 @@ en: &DEFAULT_EN
         name: "Nicole Salomons ('24, '25), Emmanuel Senft ('26)"
       - role: "Design Chair"
         name: "David Sirkin ('18)"
+      - role: "HRI Steering Committee"
+        name: "Current - David Sirkin, Maya Cakmak;  Past - Daisuke Sakamoto, Fumihide Tanaka, Henny Admoni, Kate Tsui"
 
   contact:
     title: "Contact Us"
