@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. During the workshop day, we will organize **site visits to local company offices**, where attendees can learn more about industry research. The program will also include three **panel discussions with top researchers from industry and academia**."
         icon: fas fa-industry
       - title: "Experienced organizing committee"
-        desc: "Our team has **significant experience organizing HRI** and other major conferences. Nearly every member of the organizing committee has served on a previous HRI OC in some capacity, including past General, Program, and Finance Chairs."
+        desc: "Our team has **significant experience organizing HRI** and other major conferences. Nearly every member of the organizing committee has served on a previous HRI OC in some capacity."
         icon: fas fa-users
 
   changes:
