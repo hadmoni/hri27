@@ -19,16 +19,18 @@ en: &DEFAULT_EN
     text: "Robotics in the heart of Silicon Valley"
     section: highlights
     list:
-      - title: "Single track over four days"
-        desc: " We are committed to maintaining the cohesion of the HRI community while providing researchers with sufficient time to share their work. To accommodate an anticipated increase in number of submissions, we plan to have **shorter single-track oral presentations supplemented by poster sessions** for all main track papers. We will also **extend the main conference into a fourth day**."
+      - title: "Convenient location in the heart of all things tech"
+        desc: "San Jose is an attractive, easy to access location at the center of Silicon Valley."
         icon: fas fa-calendar
               #find more at https://fontawesome.com/icons
-      - title: "Industry engagement"
-        desc: "To take advantage of the conference’s location in the Bay Area, we will emphasize connections between industry and academia. Concurrent with workshops and tutorials, we will hold an **industry day event**, featuring invited speakers and exhibitions from robotics companies, and possibly site visits to local companies, where attendees can learn more about industry research. The main conference program will also include **panel discussions with top researchers from industry and academia**."
+      - title: "Increased interaction with industry"
+        desc: "Interactions include a planned industry day, site visits, and panels with industry leaders."
         icon: fas fa-industry
-      - title: "Experienced organizing committee"
-        desc: "Our team has **significant experience organizing HRI** and other major conferences. Nearly every member of the organizing committee has served on a previous HRI OC in some capacity."
+      - title: "Extended program with diverse opportunities for engagement"
+        desc: "Single-track four-day program with short talks, posters, keynotes, and panels."
         icon: fas fa-users
+      - title: "Experienced organizing committee"
+        desc: "Committee has a deep reservoir of knowledge from prior HRIs."
 
   changes:
     title: "Changes"
