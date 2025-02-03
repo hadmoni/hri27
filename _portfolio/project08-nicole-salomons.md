@@ -15,6 +15,6 @@ I am a Lecturer (Assistant Professor) at Imperial College London in the Departme
 
 My research focuses on developing robots that shape human interactions in complex and dynamic environments throughout day-to-day tasks. I do this by building robots that create user models and give personalized feedback for long-term skill acquisition. Additionally, I study different ways that robots can positively influence people.
 
-**Previous HRI roles: Accessibility Chair (2024), Finance Chair (2025 and 2026)**
+**Previous HRI roles: Accessibility Chair (2024, 2025), Finance Chair (2026)**
 
 ACM \# 7627135
