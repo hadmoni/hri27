@@ -1,5 +1,5 @@
 <!-- Team -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
+<!-- {% if site.locale and site.locale != "" and site.locale != nil %} -->
 <section class="page-section" id="{{ site.data.sitetext[site.locale].team.section | default: "team" }}">
 <div class="container">
 
@@ -17,25 +17,16 @@
 
 	<div class="row d-flex justify-content-left">
 		
-		{% for mainvenue in site.data.sitetext[site.locale].team.mainvenue.venues %}
+		{% for venue1 in site.data.sitetext[site.locale].team.mainvenue.venues %}
 		<div class="col-sm-4">
 			<div class="team-member">
-			<img class="mx-auto rounded-circle" src="{{ mainvenue.image }}" alt="">
-			<h4>{{ mainvenue.name }}</h4>
-			<p class="text-muted">{{ mainvenue.role }}</p>
-				<ul class="list-inline social-buttons">
-				{% for network in mainvenue.social %}
-				  <li class="list-inline-item">
-					<a href="{{ network.url }}">
-					  <i class="{{ network.icon }}"></i>
-					</a>
-				  </li>
-				{% endfor %}
-				</ul>
+			<a href="{{ venue1.url }}"><img class="mx-auto rounded-circle" src="{{ venue1.image }}" alt=""></a>
+			<h4>{{ venue1.name }}</h4>
+			<p class="text-muted">{{ venue1.role }}</p>
 			</div>
 		</div>
 		<div class="col-sm-8">
-			<p class="text-muted"> {{ mainvenue.body }}</p>
+			<p class="text-muted"> {{ venue1.body }}</p>
 		</div>
 		{% endfor %}
 	</div>
@@ -49,21 +40,13 @@
 	
 
   <div class="row d-flex justify-content-center">
-  {% for person in site.data.sitetext[site.locale].team.secondaryvenue.people %}
-	<div class="col-sm-4">
+  {% for venue in site.data.sitetext[site.locale].team.secondaryvenue.venues %}
+	<div class="col-md-4 col-sm-8">
 	  <div class="team-member">
-		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
-		<h4>{{ person.name }}</h4>
-		<p class="text-muted">{{ person.role }}</p>
-		<ul class="list-inline social-buttons">
-		{% for network in person.social %}
-		  <li class="list-inline-item">
-			<a href="{{ network.url }}">
-			  <i class="{{ network.icon }}"></i>
-			</a>
-		  </li>
-		{% endfor %}
-		</ul>
+		<a href="{{ venue.url }}"><img class="mx-auto rounded-circle" src="{{ venue.image }}" alt=""></a>
+		<h4>{{ venue.name }}</h4>
+		<p class="text-muted">{{ venue.role }}</p>
+		
 	  </div>
 	</div>
   {% endfor %}
@@ -87,7 +70,7 @@
 
 </div>
 </section>
-{% else %}
+<!-- {% else %}
 <section class="page-section" id="{{ site.data.sitetext.team.section | default: "team" }}">
 	<div class="container">
 	  <div class="row">
@@ -97,14 +80,14 @@
 		</div>
 	  </div>
 	  <div class="row d-flex justify-content-center">
-	  {% for person in site.data.sitetext.team.secondaryvenue.people %}
+	  {% for venue in site.data.sitetext.team.secondaryvenue.venues %}
 		<div class="col-sm-4">
 		  <div class="team-member">
-			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
-			<h4>{{ person.name }}</h4>
-			<p class="text-muted">{{ person.role }}</p>
+			<img class="mx-auto rounded-circle" src="{{ venue.image }}" alt="">
+			<h4>{{ venue.name }}</h4>
+			<p class="text-muted">{{ venue.role }}</p>
 			<ul class="list-inline social-buttons">
-			{% for network in person.social %}
+			{% for network in venue.social %}
 			  <li class="list-inline-item">
 				<a href="{{ network.url }}">
 				  <i class="{{ network.icon }}"></i>
@@ -123,5 +106,5 @@
 	  </div>
 	</div>
 </section>
-{% endif %}
+{% endif %} -->
 <!-- End Team -->
