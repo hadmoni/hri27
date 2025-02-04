@@ -19,7 +19,7 @@ en: &DEFAULT_EN
     text: "Robotics in the heart of Silicon Valley"
     section: highlights
     list:
-      - title: "Strategic Silicon Valley location"
+      - title: "Strategic <br> location in <br> Silicon Valley"
         desc: "San Jose provides proximity and access to the world's highest concentration of robotics R&D facilities and tech companies."
         icon: fas fa-calendar
               #find more at https://fontawesome.com/icons
@@ -44,7 +44,7 @@ en: &DEFAULT_EN
         desc: "In addition to the hybrid presentation model, we propose handling an increase in papers by extending the main conference to a fourth day. The final day will end earlier than other days to allow people to travel home that afternoon. Thus, the conference would run over five days (one workshop day and four conference days). This is similar to the duration of HRI 2024, which had two workshop days and three conference days. More details about the proposed schedule changes can be found in the Schedule section below."
         icon: far fa-clock
       - title: "Daily panels"
-        desc: "As attendance increases and HRI attracts attention from other fields, we aim to help maintain some common ground across the community by introducing daily panel discussions. These panels will bring together top researchers from both academia and industry, in keeping with our theme of Innovative HRI. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?” We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration. The panels will complement the traditional keynotes, paper talks, and poster sessions."
+        desc: "As attendance increases and HRI attracts attention from other fields, we aim to help maintain some common ground across the community by introducing daily panel discussions. These panels will bring together top researchers from both academia and industry, in keeping with our theme of \"Innovative HRI\". Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?” We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration. The panels will complement the traditional keynotes, paper talks, and poster sessions."
         icon: fas fa-comments
 
   timeline:
@@ -124,7 +124,7 @@ en: &DEFAULT_EN
         align: right
 
   about:
-    title: "Innovative HRI"
+    title: "\"Innovative HRI\""
     body: "Silicon Valley, a world-renowned center of technological innovation and creativity, is the perfect setting for the HRI 2027 conference. The area boasts an extraordinary ecosystem of startups, established tech giants, and cutting-edge university research labs. We aim to leverage this proximity to industry to provide conference attendees with unique networking opportunities that can inspire collaboration and new ideas in human-robot interaction.<br><br>
 
       San Jose is the largest city in Silicon Valley, with a population of nearly 1 million people in 2022. The area is home to 6,600 companies including top tech companies like Amazon, Apple, Microsoft, Adobe, Tesla, Fetch Robotics, NVIDIA, Meta, and Google. There are also many research universities in the area, including Stanford University, University of California - Berkeley, University of California - Santa Cruz, and San Jose State University.<br><br>
@@ -268,6 +268,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     title: "Letters of Support"
+    subtitle: "Click a logo to see that organization's letter."
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
