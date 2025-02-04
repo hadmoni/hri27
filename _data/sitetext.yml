@@ -19,18 +19,18 @@ en: &DEFAULT_EN
     text: "Robotics in the heart of Silicon Valley"
     section: highlights
     list:
-      - title: "Convenient location in the heart of all things tech"
-        desc: "San Jose is an attractive, easy to access location at the center of Silicon Valley."
+      - title: "Strategic Silicon Valley location"
+        desc: "San Jose provides proximity and access to the world's highest concentration of robotics R&D facilities and tech companies."
         icon: fas fa-calendar
               #find more at https://fontawesome.com/icons
       - title: "Increased interaction with industry"
-        desc: "Interactions include a planned industry day, site visits, and panels with industry leaders."
+        desc: "The program features structured engagement with industry through events like facility tours, presentations and exhibitions from local robotics companies, and inclusion of robotics industry leaders in panel discussions."
         icon: fas fa-industry
-      - title: "Extended program with diverse opportunities for engagement"
-        desc: "Single-track four-day program with short talks, posters, keynotes, and panels."
+      - title: "Extended program for high submission volume"
+        desc: "Single-track four-day program with short talks, posters, keynotes, and cross-disciplinary panel discussions."
         icon: fas fa-users
       - title: "Experienced organizing committee"
-        desc: "Committee has a deep reservoir of knowledge from prior HRIs."
+        desc: "The organizing committee features former general and program chairs, and members with experience across all other major organizational roles."
 
   changes:
     title: "Changes"
@@ -44,7 +44,7 @@ en: &DEFAULT_EN
         desc: "In addition to the hybrid presentation model, we propose handling an increase in papers by extending the main conference to a fourth day. The final day will end earlier than other days to allow people to travel home that afternoon. Thus, the conference would run over five days (one workshop day and four conference days). This is similar to the duration of HRI 2024, which had two workshop days and three conference days. More details about the proposed schedule changes can be found in the Schedule section below."
         icon: far fa-clock
       - title: "Daily panels"
-        desc: "We aim to increase the variety of events each day by introducing daily panel discussions. These panels will bring together top researchers from both academia and industry, in keeping with our theme of Innovative HRI. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?”. We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration. The panels will complement the traditional keynotes, paper talks, and poster sessions."
+        desc: "As attendance increases and HRI attracts attention from other fields, we aim to help maintain some common ground across the community by introducing daily panel discussions. These panels will bring together top researchers from both academia and industry, in keeping with our theme of Innovative HRI. Each panel will cover a different timely topic such as “HRI in the LLM Era” or “Where’s the Real World Impact?” We hope that having a mix of speakers will provide different perspectives, highlight the connections between industry and academia, and inspire further cross-domain collaboration. The panels will complement the traditional keynotes, paper talks, and poster sessions."
         icon: fas fa-comments
 
   timeline:
