@@ -272,6 +272,9 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
+      - title: "intrinsic"
+        url: https://drive.google.com/file/d/1N5lJa4z-TGDk1rAo0dpajku_wVruUi2e/view?usp=sharing
+        logo: assets/img/clients/intrinsic.png
       - title: "svr"
         url: https://drive.google.com/file/d/1kXuArHRXdUpRu6VALU88kGvsEPunee0D/view?usp=sharing
         logo: assets/img/clients/svr.png

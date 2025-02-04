@@ -9,9 +9,9 @@
       </div>
       </div>
       
-      <div class="row" {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
+      <div class="row d-flex align-items-center" {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
 	    {% for client in site.data.sitetext[site.locale].clients.list %}
-        <div class="col-md-4 col-sm-8 mx-auto">
+        <div class="col-md-3 col-sm-6 mx-auto">
           <a href="{{ client.url }}">
             <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
           </a>
