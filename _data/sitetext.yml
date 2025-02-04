@@ -277,6 +277,9 @@ en: &DEFAULT_EN
       - title: "wir"
         url: https://drive.google.com/file/d/11nGUjCG5BVmb-_T5JK9c1OFdRcqkeOIZ/view?usp=sharing
         logo: assets/img/clients/wir.png
+      - title: "arm-lab"
+        url: hhttps://drive.google.com/file/d/1FRU-wqUHj6417fPfPT-D6Jw2U2tKJjKC/view?usp=sharing
+        logo: assets/img/clients/armlab.png
       # - title: "themeforest"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/themeforest.jpg
