@@ -265,23 +265,24 @@ en: &DEFAULT_EN
         personal-url: "https://unsplash.com/@contrastband?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
         photo-url: "https://unsplash.com/photos/blue-and-black-robot-figurine-S-vkpXA3os8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
 
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
+  clients:
+    section: clients
+    title: "Letters of Support"
+    max-height: 100px
+    horizontal-scrolling: "no" #"yes/no"
+    list:
+      - title: "svr"
+        url: https://drive.google.com/file/d/1kXuArHRXdUpRu6VALU88kGvsEPunee0D/view?usp=sharing
+        logo: assets/img/clients/svr.png
+      - title: "wir"
+        url: https://drive.google.com/file/d/11nGUjCG5BVmb-_T5JK9c1OFdRcqkeOIZ/view?usp=sharing
+        logo: assets/img/clients/wir.png
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
 
 en-US:
   <<: *DEFAULT_EN
